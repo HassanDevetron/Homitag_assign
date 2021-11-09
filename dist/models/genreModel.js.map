@@ -1,0 +1,1 @@
+{"version":3,"file":"genreModel.js","sourceRoot":"","sources":["../../lib/models/genreModel.ts"],"names":[],"mappings":";;;AAAA,qCAAqC;AAErC,MAAM,MAAM,GAAG,QAAQ,CAAC,MAAM,CAAC;AAElB,QAAA,WAAW,GAAG,IAAI,MAAM,CAAC;IACpC,IAAI,EAAE;QACJ,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,IAAI;KACf;IACD,WAAW,EAAE;QACX,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,IAAI;KACf;CACF,CAAC,CAAC"}

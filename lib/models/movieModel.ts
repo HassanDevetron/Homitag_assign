@@ -15,10 +15,10 @@ export const MovieSchema = new Schema({
     type: String,
     required: true,
   },
-  genres: {
+  genres: [{
       type: Schema.Types.ObjectId,
       ref: 'User'
-  },
+  }],
   duration: {
     type: String,
     required: true,
