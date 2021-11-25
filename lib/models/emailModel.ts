@@ -2,13 +2,15 @@ import * as mongoose from "mongoose";
 
 const Schema = mongoose.Schema;
 
-export const GenreSchema = new Schema({
+export const EmailSchema = new Schema({
+  emailAddress: {
+    type: String,
+    unique: true,
+  },
   name: {
     type: String,
-    required: true,
   },
-  description: {
+  scheduledDate: {
     type: String,
-    required: true,
   },
 });
